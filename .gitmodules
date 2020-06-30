@@ -2,3 +2,7 @@
 	path = product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 13.0
+[submodule "account_multi_pay"]
+	path = account_multi_pay
+	url = git@github.com:viernes/account_multi_pay.git
+	branch = 13.0
